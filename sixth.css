@@ -1,0 +1,152 @@
+body {
+    background-color: rgb(13, 46, 53);
+}
+
+.content {
+    background-image: url(rainforest.png);
+    background-color: rgb(37, 111, 92);
+    width: 700px;
+    height: 400px;
+    margin: auto;
+}
+
+.totoroumbrella {
+    height: 125px;
+    width: 95px;
+    position: absolute;
+    bottom: 340px;
+    left: 500px;
+}
+
+.bush {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+
+  }
+
+.btn {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin-left: 380px;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    stroke: rgb(255, 255, 255);
+    font-weight: 550;
+    margin-bottom: 10px;
+    margin-top: 170px;
+}
+
+.btn:hover {
+    background-color: rgb(255, 255, 255);
+    transition: 0.7s;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: rgb(13, 46, 53);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: none;
+}
+
+a:active {
+    color: white;
+}
+
+.image1 {
+    display: block;
+    margin: auto;
+}
+
+.dot {
+    height: 75px;
+    width: 75px;
+    background-color: #bbb;
+    border-radius: 50%;
+    flex-wrap: wrap;
+    display: flex;
+    float: right;
+    margin-top: 35px;
+    
+  }
+
+  .item1 {
+    width: 90px;
+    height: 90px;
+    margin-left: 450px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 465px;
+  }
+
+  .item2 {
+    width: 75px;
+    height: 75px;
+    margin-left: 450px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 550px;
+}
+
+.item3 {
+    width: 70px;
+    height: 70px;
+    margin-left: 450px;
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 628px;
+}
+
+#randomimage {
+    width: 160px;
+    height: 100px;
+    margin-left: 270px;
+    position: fixed;
+}
+
+#flip {
+    margin-left: 300px;
+    border-radius: 20px;
+}
+
+#result {
+    margin-left: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.randomimage1 {
+    width: 100px;
+    height: 100px;
+    margin-left: 290px;
+    position: fixed;
+}
+
+.randomimage2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 299px;
+   position: fixed;
+}

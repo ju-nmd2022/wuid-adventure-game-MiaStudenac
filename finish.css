@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(13, 46, 53);
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 15px;
+}
+
+.thanku {
+    margin-top: 70px;
+}
+
+.rain {
+    margin-top: 30px;
+}
