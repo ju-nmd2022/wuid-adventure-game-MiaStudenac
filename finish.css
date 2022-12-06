@@ -6,12 +6,78 @@ img {
     display: block;
     margin: auto;
     padding: 15px;
+    height: 200px;
 }
 
 .thanku {
-    margin-top: 70px;
+    margin-top: 40px;
+    height: 170px;
+    width: 220px;
 }
 
 .rain {
-    margin-top: 30px;
+    margin-top: 10px;
+}
+
+.gumb1 {
+    width: 40px;
+    height: 40px;
+    margin-left: 140px;
+    position: absolute;
+    margin-top: -10px;
+    cursor: pointer;
+  }
+
+  .gumb2 {
+    width: 40px;
+    height: 40px;
+    margin-left: 260px;
+    position: absolute;
+    margin-top: -10px;
+    cursor: pointer;
+  }
+
+  .gumb3 {
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: -10px;
+    cursor: pointer;
+  }
+
+ 
+.poruka1 {
+    height: 30px;
+    width: 145px;
+    position: absolute;
+    bottom: 30px;
+    margin-left: 530px;
+}
+
+.poruka2 {
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    bottom: 30px;
+    margin-left: 780px;
+}
+
+.poruka3 {
+    height: 30px;
+    width: 120px;
+    position: absolute;
+    bottom: 30px;
+    margin-left: 280px;
+}
+
+.flex-container {
+    display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+p {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
