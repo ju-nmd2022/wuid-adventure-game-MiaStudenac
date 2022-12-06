@@ -1,3 +1,5 @@
+//with the help of my dad
+
 var odabraoSvjetlo = false;
 
 window.addEventListener ("load", function(){

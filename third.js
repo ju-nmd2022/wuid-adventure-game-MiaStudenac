@@ -1,3 +1,5 @@
+//with the help of my dad
+
 window.addEventListener ("load", function(){
     document.getElementById("mapa").style.visibility = "hidden";
     document.getElementById("poruka").style.visibility = "hidden";

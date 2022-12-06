@@ -1,3 +1,5 @@
+//with the help of my dad
+
 window.addEventListener ("load", function(){
     document.getElementById("poruka1").style.visibility = "hidden";
     document.getElementById("poruka2").style.visibility = "hidden";

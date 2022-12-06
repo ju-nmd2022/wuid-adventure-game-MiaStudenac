@@ -1,3 +1,5 @@
+//with the help of this website: https://sebhastian.com/coin-flip-javascript/
+
 window.addEventListener ("load", function(){
     document.getElementById("randomimage").style.visibility = "hidden";
     document.getElementById("randomimage1").style.visibility = "hidden";
@@ -31,13 +33,3 @@ window.addEventListener ("load", function(){
         }
     
         button.addEventListener("click", fnClick);
-
-
-
-        if (time < 10) {
-          greeting = "Good morning";
-        } else if (time < 20) {
-          greeting = "Good day";
-        } else {
-          greeting = "Good evening";
-        }

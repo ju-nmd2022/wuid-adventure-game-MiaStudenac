@@ -1,3 +1,5 @@
+//with the help of my dad
+
 var odabraoMapu = false;
 
 window.addEventListener ("load", function(){
